@@ -8,8 +8,8 @@ OpenCV-python,
 connecting wires,
 hand glove(optional)
 
-## Robotic Arm 
+## Robotic Arm Setup
 
 <p align="left">
-  <img src="https://github.com/manoharbhat/Remote-Controlled-Self-Balancing-Bot/blob/main/images/bot.jpg" width=50% height=50%>
+  <img src="https://github.com/manoharbhat/Real-Time-Robotic-Arm-Manipulation/blob/master/Setup.jpg" width=50% height=50%>
 </p> 
